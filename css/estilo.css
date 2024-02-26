@@ -1,0 +1,78 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+
+}
+header{
+position: absolute;
+}
+span{
+background-color: gray;
+opacity:0.8;
+font-family: Oswald, sans-serif;
+position: relative;
+}
+span.uno{
+	color:blue;
+}
+span.dos{
+	color: red ;
+}
+ul a{
+font-family: Oswald, sans-serif;
+font-size: 1em;
+letter-spacing: 10px;
+color:black;
+position: absolute;
+top:50px;
+}
+
+div.azul{
+position: absolute;
+left: 440px;
+top: 570px;
+color: blue ;
+font-weight: bold;
+font-size: 6em;
+font-family: Oswald, sans-serif;
+}
+div.blanco{
+position: absolute;
+top: 570px;
+color: white;
+font-weight: bold;
+font-size: 6em;
+font-family: Oswald, sans-serif;
+left: 920px;
+}
+div.rojo{
+position: absolute;
+left: 1620px;
+top: 570px;
+color:red ;
+font-weight: bold;
+font-size: 6em;
+font-family: Oswald, sans-serif;
+}
+.galeria{
+width: 100px;
+justify-content:;
+display: flex;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
